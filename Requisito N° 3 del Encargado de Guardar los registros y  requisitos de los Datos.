@@ -1,0 +1,14 @@
+Tu responsabilidad principal será diseñar e implementar el sistema de almacenamiento y recuperación de datos del juego, garantizando que el progreso del jugador y la información 
+del personaje se mantenga intacta incluso cuando la aplicación se cierre o se interrumpa inesperadamente. Esto implica identificar qué datos deben ser persistentes, cómo deben 
+estructurarse y de qué manera se gestionarán para ofrecer una experiencia fluida y confiable. Entre los elementos clave a guardar están: nivel actual, puntos de experiencia, 
+habilidades desbloqueadas, inventario, progreso en misiones, elementos de personalización y cualquier decisión narrativa que afecte la historia. Para cumplir con esta tarea, deberás 
+seleccionar la tecnología de almacenamiento más adecuada según la plataforma del juego (iOS, Android o multiplataforma). Esto puede incluir archivos locales, bases de datos ligeras
+como SQLite, o incluso almacenamiento en la nube si se quiere permitir sincronización entre dispositivos. Además, deberás asegurarte de que el acceso a estos
+datos sea rápido, seguro y confiable, evitando pérdidas de información o corrupciones que puedan afectar la experiencia del usuario. Tu labor también incluye diseñar métodos de 
+serialización y deserialización: convertir los objetos del juego en un formato que pueda ser guardado en disco y luego reconstruido cuando el jugador vuelva. Esto requiere coordinación
+estrecha con los responsables de mecánicas, personajes y narrativa, para asegurar que todos los atributos importantes sean registrados correctamente. Además, deberás implementar mecanismos
+de guardado automático y manual, para que el jugador no pierda avances si la app se cierra inesperadamente. Esto incluye pruebas rigurosas para escenarios como cierres forzados, 
+actualizaciones de versión o cambios de dispositivo. También es importante crear protocolos de recuperación y consistencia, garantizando que los datos cargados sean válidos y no generen
+conflictos en la partida. Finalmente, tu rol no se limita a la programación: también deberás documentar cómo se guardan y restauran los datos, definiendo claramente qué información es
+persistente y cómo interactúa con los distintos módulos del juego. Este trabajo asegura que la experiencia del jugador sea continua, confiable y satisfactoria, reforzando la inmersión en el 
+mundo del videojuego y respetando la inversión de tiempo y esfuerzo de cada usuario.
