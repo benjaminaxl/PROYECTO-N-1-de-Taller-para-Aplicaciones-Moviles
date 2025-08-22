@@ -1,0 +1,44 @@
+Requisito Funcional 1: Mecánicas del Juego
+
+Responsable Asignado: Diseñador de Mecánicas y Jugabilidad
+
+Será el encargado de imaginar, estructurar y dar forma al sistema jugable, asegurando que cada mecánica sea coherente y funcional en el recorrido,
+estableciendo controles intuitivos y bien equilibrados en cada nivel, y garantizando que la experiencia crezca en dificultad de manera gradual.
+Su labor no es solo inventar acciones, sino también probarlas y ajustarlas, para que los combates, acertijos y recursos tengan un balance justo,
+ofreciendo al jugador variedad en sus decisiones y creatividad en su avance, y construyendo escenarios que respondan al esfuerzo con satisfacción real.
+Este responsable coordina con el equipo de programación y arte, dando instrucciones claras para que la mecánica cobre vida en pantalla.
+También analiza la retroalimentación de pruebas y test internos, buscando que la jugabilidad no se vuelva repetitiva o frustrante,
+sino motivadora, dinámica y accesible para distintos perfiles de jugador. Cada detalle de la física, el ritmo y los controles recaen en su tarea,
+pues su misión es ser el puente entre la diversión y la técnica, logrando que todo el sistema tenga fluidez y coherencia en la práctica.
+Su compromiso es diseñar, documentar y supervisar cada ajuste, asegurando que los objetivos jugables se mantengan fieles a la visión,
+y garantizando que el videojuego sea disfrutable de principio a fin.
+
+Requisito Funcional 2: Personajes y Evolución
+
+Responsable Asignado: Diseñador Narrativo y de Personajes
+
+Este miembro se enfoca en dar vida al protagonista y sus compañeros, construyendo personalidades, motivaciones y estilos de interacción claros,
+desarrollando un sistema de progresión que sea atractivo y motivador, y que permita al jugador sentir crecimiento y conexión con su avatar.
+Es quien define cómo evolucionan las habilidades a lo largo del juego, qué misiones permiten desbloquear poderes y cuáles retos los refuerzan,
+así como el diseño de personajes secundarios con roles narrativos, aportando apoyo, pistas, secretos y elementos vitales a la trama.
+Su responsabilidad es unir la jugabilidad con la identidad de cada héroe, logrando que el aspecto estético también refleje los logros conseguidos,
+y que la personalización no sea un adorno, sino un símbolo de progreso. Debe trabajar en conjunto con el área artística y técnica,
+para plasmar en modelos, voces y animaciones las ideas creadas, asegurando coherencia en cada línea de diálogo y cada gesto.
+Además, investiga arquetipos y referentes culturales inspiradores, para que los personajes tengan profundidad y credibilidad real,
+convirtiéndose en figuras memorables para quienes jueguen la historia. Su meta final es que cada jugador se identifique con su papel,
+y que la evolución del personaje lo motive a seguir adelante siempre, creando un lazo emocional duradero en la experiencia del videojuego.
+
+Requisito Funcional 3: Historia y Mundo Narrativo
+
+Responsable Asignado: Guionista y Diseñador del Mundo
+
+Este integrante se centra en la construcción de la trama y sus raíces, plasmando un conflicto central sólido que guíe todo el desarrollo,
+y diseñando misiones secundarias que expandan el universo narrativo, sin perder coherencia ni ritmo con la historia principal del juego.
+Es responsable de crear escenarios vivos llenos de detalles, en los que cada objeto, diálogo y símbolo tenga un propósito,
+y que inviten al jugador a explorar y descubrir nuevas perspectivas. Debe definir cómo las decisiones impactan los caminos narrativos,
+garantizando que existan desenlaces múltiples y rejugabilidad. Su tarea abarca escribir guiones, documentos y diálogos fluidos,
+para que la narrativa se exprese de forma clara y atractiva, además de coordinar con ilustradores y diseñadores de niveles,
+asegurando que la ambientación refuerce el peso emocional. Analiza referencias literarias, cinematográficas y culturales,
+para darle al mundo un trasfondo con identidad y credibilidad, y supervisa la integración de misiones con la jugabilidad misma.
+Es quien mantiene la visión global del relato siempre firme, dando sentido al viaje del héroe y la evolución de los sucesos,
+y transmitiendo a los jugadores la emoción de un mundo inmersivo.
