@@ -1,0 +1,45 @@
+Requerimiento 1: Mecánicas del Juego
+
+El juego deberá integrar un sistema jugable dinámico y bien estructurado, capaz de ofrecer experiencias progresivas que mantengan la motivación,
+con controles intuitivos que permitan accesibilidad desde el inicio, pero con capas de complejidad que otorguen reto a jugadores avanzados.
+Los escenarios estarán diseñados para fomentar exploración significativa, con acertijos, combates y recursos que obliguen a pensar y decidir,
+donde cada acción del jugador impacte en el flujo del avance, asegurando que nada resulte repetitivo o carezca de propósito real.
+La recolección de objetos será clave para la progresión estratégica, dando opciones de personalización y ventajas frente a los desafíos.
+La dificultad aumentará gradualmente como parte de la curva natural, motivando al jugador a superarse en cada etapa sin frustración.
+Cada mecánica deberá ser probada, ajustada y documentada, garantizando balance y coherencia entre diversión y desafío técnico.
+El diseño incluirá la posibilidad de interacción con aliados, integrando dinámicas colaborativas dentro de algunos escenarios.
+El objetivo será brindar variedad en cómo enfrentar obstáculos, con un sistema flexible que premie tanto acción como estrategia.
+Los niveles deberán diseñarse con un ritmo inmersivo y justo, con transiciones claras entre momentos de calma y tensión,
+creando experiencias únicas en cada capítulo de la historia. Se requerirá coherencia entre mecánicas y narrativa establecida,
+para que el jugador perciba integración total en la aventura. Este requerimiento asegura que la base del videojuego sea sólida,
+sirviendo de pilar central en la experiencia global propuesta.
+
+Requerimiento 2: Personajes y Evolución
+
+El protagonista será diseñado con un sistema de progresión atractivo, donde cada logro, misión y combate desbloquee nuevas habilidades,
+reforzando la sensación de crecimiento y avance significativo. Los personajes secundarios tendrán funciones narrativas definidas,
+aportando tanto apoyo mecánico como conexión emocional al viaje. Cada evolución del personaje reflejará un logro del jugador,
+tanto en aspectos estéticos como en destrezas desbloqueadas. La personalización permitirá expresar identidad y progreso,
+brindando motivación adicional para superar desafíos clave. Los personajes deberán tener historias coherentes y memorables,
+con diálogos escritos para enriquecer la experiencia general. El responsable de este requerimiento integrará mecánica y relato, 
+asegurando que la evolución no sea aislada, sino significativa. Las habilidades deberán equilibrarse para evitar excesos de poder,
+manteniendo un desafío justo y progresivo para el jugador. Los secundarios revelarán secretos, pistas o caminos alternativos,
+invitando a explorar más allá de la ruta principal establecida. Cada personaje se integrará en la trama con un propósito,
+sin elementos superficiales que rompan la coherencia narrativa. El objetivo es fortalecer el vínculo jugador–avatar constante,
+garantizando inmersión y motivación a lo largo del recorrido. Este requerimiento asegura que los personajes sean el alma,
+generando identidad y emoción en todo el universo creado.
+
+Requerimiento 3: Historia y Mundo Narrativo
+
+La trama deberá estar construida sobre un conflicto central claro, que funcione como motor de la aventura y la exploración total.
+Cada misión principal aportará avances al desarrollo narrativo, mientras que las secundarias expandirán el universo del mundo.
+El diseño de escenarios deberá estar cargado de simbolismos, reflejando en cada rincón detalles que refuercen la trama.
+El guion deberá contener diálogos fluidos y emocionales, capaces de conectar al jugador con personajes y sucesos.
+Las decisiones tendrán impacto real en rutas y desenlaces, fomentando rejugabilidad y sensación de control en la historia.
+El mundo deberá sentirse vivo, cambiante y lleno de matices, con elementos visuales y sonoros que refuercen la inmersión.
+El responsable documentará coherencia entre guion y jugabilidad, para que la experiencia narrativa fluya sin interrupciones.
+Cada capítulo de la historia presentará giros significativos, generando motivación constante para avanzar en la aventura.
+El diseño incluirá mitologías, culturas y referencias únicas, aportando identidad propia al universo del videojuego. 
+El objetivo será crear una narrativa que atrape al jugador, haciéndolo sentir parte activa y no un espectador pasivo.
+Los desenlaces múltiples reforzarán el valor de explorar, con variaciones que dependan de decisiones tomadas. 
+Este requerimiento asegura un mundo coherente y memorable, fortaleciendo la visión documentada del equipo creativo.
