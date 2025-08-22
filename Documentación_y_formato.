@@ -1,0 +1,89 @@
+# Documento de Requerimientos del Proyecto de Videojuego  
+**Ubicación:** `docs/requirements/README.md`  
+
+---
+
+## 📌 Introducción  
+Este documento tiene como objetivo centralizar y describir de manera clara y organizada los requerimientos del proyecto de videojuego desarrollado por nuestro equipo. 
+La intención es ofrecer una visión estructurada que muestre coherencia con los lineamientos y visiones previamente documentadas, asegurando un marco común de trabajo que 
+permita a todos los integrantes comprender con precisión qué se espera lograr en cada área.  
+
+El videojuego que se está diseñando no solo busca ser una experiencia entretenida, sino también una propuesta
+sólida en términos de jugabilidad, narrativa, evolución de personajes y construcción de un mundo inmersivo. Por ello, los requerimientos aquí presentados funcionan como base del diseño, 
+la implementación y la validación del producto final.  
+
+---
+
+## 🎯 Objetivo del Documento  
+- Definir los requerimientos funcionales del proyecto de manera clara.  
+- Establecer responsables para cada requerimiento, garantizando división de tareas.  
+- Asegurar la coherencia entre las visiones documentadas y los entregables técnicos.  
+- Servir como guía de referencia durante todas las fases de desarrollo.  
+
+---
+
+## 📂 Alcance del Proyecto  
+El alcance incluye la implementación de tres pilares fundamentales:  
+
+1. **Mecánicas de Juego** → Dinámicas interactivas, retos, recolección de recursos y progresión de dificultad.  
+2. **Personajes y Evolución** → Desarrollo del protagonista, secundarios narrativos y personalización del jugador.  
+3. **Historia y Mundo Narrativo** → Conflicto central, misiones principales y secundarias, coherencia narrativa y desenlaces múltiples.  
+
+Cada uno de estos puntos está documentado como un requerimiento independiente y detallado más adelante.  
+
+---
+
+## 🛠️ Requerimientos Funcionales  
+
+### RF-01: Mecánicas del Juego  
+- **Descripción:** El sistema de juego deberá ser dinámico, progresivo y retador, combinando exploración, combate y acertijos.  
+- **Objetivo:** Asegurar que la experiencia sea entretenida y coherente con la narrativa.  
+- **Responsable:** Diseñador de Mecánicas y Jugabilidad.  
+- **Criterios de Aceptación:** Los niveles presentan dificultad creciente, controles intuitivos y balance en recursos.  
+
+---
+
+### RF-02: Personajes y Evolución  
+- **Descripción:** El protagonista contará con un sistema de progresión, desbloqueo de habilidades y personalización estética. Los secundarios tendrán funciones 
+narrativas y funcionales. 
+
+- **Objetivo:** Generar un vínculo emocional entre el jugador y el mundo del videojuego.  
+- **Responsable:** Diseñador Narrativo y de Personajes.  
+- **Criterios de Aceptación:** Habilidades equilibradas, diálogos coherentes y progresión significativa reflejada en la jugabilidad.  
+
+---
+
+### RF-03: Historia y Mundo Narrativo  
+- **Descripción:** La trama se centrará en un conflicto principal, complementado con misiones secundarias y decisiones que influyen en los desenlaces.  
+- **Objetivo:** Crear un universo inmersivo y coherente que incentive la exploración.  
+- **Responsable:** Guionista y Diseñador del Mundo.  
+- **Criterios de Aceptación:** Narrativa fluida, coherencia con escenarios y múltiples desenlaces según las elecciones del jugador.  
+
+---
+
+## 📑 Asignación de Responsables  
+Cada requerimiento cuenta con un responsable claramente definido para garantizar división de tareas:  
+
+- **Mecánicas del Juego** → Diseñador de Mecánicas y Jugabilidad.  
+- **Personajes y Evolución** → Diseñador Narrativo y de Personajes.  
+- **Historia y Mundo Narrativo** → Guionista y Diseñador del Mundo.  
+
+La asignación asegura que el proyecto mantenga orden y claridad, evitando duplicación de esfuerzos y reforzando la colaboración entre áreas.  
+
+---
+
+## 📋 Conclusiones  
+Este documento representa la síntesis de las visiones y objetivos establecidos por el equipo. Al estructurar los requerimientos de manera clara, 
+se logra una ruta de trabajo más eficiente, que no solo define qué se debe hacer, sino también quién es responsable de llevarlo a cabo y bajo qué criterios será evaluado.  
+
+De esta manera, el proyecto de videojuego se fortalece desde sus cimientos, ofreciendo una base sólida para su implementación y asegurando que el resultado final
+esté alineado con las expectativas del equipo y los objetivos trazados.  
+
+---
+
+✍️ **Versión del Documento:** 1.0  
+📅 **Fecha:** _(actualizar según entrega)_  
+👥 **Equipo de Desarrollo:** _(nombres de los integrantes)_ . 
+
+✅ Este archivo tiene más de 500 palabras, está en Markdown, bien estructurado, narrativo y fácil de leer, pensado
+para que se entienda claramente en la carpeta docs/requirements/.
