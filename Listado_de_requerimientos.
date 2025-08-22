@@ -1,0 +1,51 @@
+1. Mecánicas de Juego:
+
+El videojuego debe ofrecer un sistema de exploración interactivo en el que el jugador pueda recorrer diferentes escenarios dinámicos, resolver acertijos y superar obstáculos que combinan acción con estrategia. Cada nivel presentará retos progresivos que inviten al jugador a mejorar sus habilidades, incluyendo combates ágiles y la posibilidad de recolectar recursos que aporten ventajas únicas. La jugabilidad debe ser intuitiva pero con suficiente profundidad para mantener el interés a lo largo de la experiencia.
+
+2. Personajes y Evolución:
+
+Los personajes principales deben estar diseñados con personalidades únicas y habilidades diferenciadas que influyan en la forma de jugar. El protagonista debe contar con un sistema de progresión que le permita desbloquear nuevas destrezas y personalizaciones visuales a medida que avanza. Además, los personajes secundarios deben aportar tanto apoyo narrativo como funcionalidad dentro del juego, ya sea brindando pistas, ayudando en combates o revelando elementos clave de la trama.
+
+3. Historia y Mundo Narrativo:
+
+La narrativa debe ser clara y envolvente, centrada en un conflicto principal que motive al jugador a seguir avanzando. El mundo debe construirse con detalles coherentes, incorporando misiones principales y secundarias que aporten variedad y profundidad a la experiencia. La historia debe dejar espacio para el descubrimiento, incentivando al jugador a explorar y a tomar decisiones que impacten de manera significativa en el desarrollo de los eventos.
+
+Requisito Funcional 1: Mecánicas del Juego
+
+El sistema de mecánicas deberá ser dinámico, intuitivo y con progresión clara,
+permitiendo al jugador recorrer escenarios interactivos que respondan a sus acciones,
+donde cada nivel combine exploración libre con retos de combate estratégicos,
+y los acertijos se integren como parte natural de la historia principal.
+Los controles deben ser accesibles pero con profundidad suficiente,
+para que el jugador se sienta retado sin perder la fluidez en la experiencia,
+con recolección de recursos y objetos que otorguen ventajas específicas,
+y con enemigos o desafíos que requieran adaptarse a nuevas formas de jugar.
+La dificultad debe crecer gradualmente para mantener interés continuo,
+y el diseño debe motivar siempre a superar obstáculos con creatividad.
+
+Requisito Funcional 2: Personajes y Evolución
+
+El protagonista deberá tener un sistema de evolución progresiva,
+con habilidades iniciales simples que puedan mejorarse en el tiempo,
+y con desbloqueo de técnicas o poderes únicos a través de misiones,
+para que cada jugador sienta un crecimiento reflejado en su personaje.
+Los secundarios deberán cumplir roles narrativos y funcionales clave,
+como guías, aliados en batalla o portadores de secretos importantes,
+aportando variedad en la forma de afrontar los desafíos del juego.
+La personalización estética deberá reforzar la identidad del jugador,
+permitiendo que se sienta representado en cada etapa de la historia,
+y dando valor al progreso alcanzado en la aventura vivida.
+
+Requisito Funcional 3: Historia y Mundo Narrativo
+
+La narrativa deberá ser coherente, profunda y motivadora,
+con un conflicto central que sirva de motor para la acción,
+pero con misiones secundarias que amplíen la visión del universo,
+invitando al jugador a explorar secretos y descubrir nuevas facetas.
+El mundo debe ser rico en detalles y con conexiones internas,
+para que cada escenario no sea solo un mapa sino parte viva,
+aportando pistas y recuerdos que refuercen el sentido de la trama.
+Las decisiones del jugador deben tener un impacto significativo,
+modificando diálogos, rutas o desenlaces posibles de la historia,
+y asegurando rejugabilidad con múltiples resultados narrativos.
+
